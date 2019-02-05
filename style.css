@@ -1,0 +1,15 @@
+body {
+    background-color: white;
+}
+
+div.gif {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+p {
+    direction: rtl;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
